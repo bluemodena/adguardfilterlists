@@ -1,0 +1,35 @@
+! Title: AdGuard Allowlist for Streaming TV Apps 
+! Description: Allowlist for Streaming TV apps like Paramount+, Disney+, (Hulu?), and other apps which require 
+! access to ads sites in order to function properly. These are separately out so that other clients can block these sites.
+! Version: 20240108
+!
+! Source name: AdGuard Allowlist for Streaming TV Apps 
+! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/main/Allowlist-StreamingTVApps.txt?token=GHSAT0AAAAAACMQJUHV3SGYCOLYYTTQ2KRIZM36EYQ
+! Homepage: https://github.com/bluemodena/adguardfilterlists
+! Contribute: https://github.com/bluemodena/adguardfilterlists/issues
+! License: MIT (https://mit-license.org/)
+
+||(\.|^)cws\.conviva\.com$^
+||87a6b28bc7823e67a5bb2a0a6728c702afcae78d.cws.conviva.com^
+||adobedtm.com^
+||bam.nr-data.net^
+||bamgrid.com^
+||c.aaxads.com^
+||c.amazon-adsystem.com^
+||cbsi.com.ssl.sc.omtrdc.net^
+||cbsinteractive.hb.omtrdc.net^
+||cdn.registerdisney.go.com^
+||cws.conviva.com^
+||d9.flashtalking.com^
+||disney-plus.net^
+||disney-portal.my.onetrust.com^
+||disneyplus.bn5x.net^
+||dssott.com^
+||js-agent.newrelic.com^
+||partnerad.l.doubleclick.net^
+||s0.2mdn.net^
+||saa.cbsi.com^
+||t.paypal.com^
+||tv.rlcdn.com^
+||disneyplus.com^
+||r3.o.lencr.orgcom^
