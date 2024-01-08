@@ -3,16 +3,11 @@
 ! Version: 20240107
 !
 ! Source name: DirecTV Pause Blocklist by Bluemodena
-! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/master/Blocklist-DirecTV_Pause_Ads.txt
-! https://github.com/bluemodena/adguardfilterlists/main/Blocklist-DirecTV_Pause_Ads.txt
+! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/main/Blocklist-DirecTV_Pause_Ads.txt?token=GHSAT0AAAAAACMQJUHV3SGYCOLYYTTQ2KRIZM36EYQ
+! Main: https://github.com/bluemodena/adguardfilterlists/blob/main/Blocklist-DirecTV_Pause_Ads.txt
 ! Homepage: https://github.com/bluemodena/adguardfilterlists
 ! Contribute: https://github.com/bluemodena/adguardfilterlists/issues
 ! License: MIT (https://mit-license.org/)
-
-! Title: HaGeZi's Personal DNS Blocklist
-! Description: My personal blocklist, an extension for known blocklists. Blocks ads, trackers, native device trackers, badware and more. Not intended to be used as a standalone blocklist, it serves as a addition for other blocklists!
-
-
 
 ||xandrssads-sponsored.akamaized.net^
 ||nomadnws.dtvce.com^
