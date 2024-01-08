@@ -6,7 +6,7 @@
 ! Source: https://raw.githubusercontent.com/bluemodena/adguard-directv-pause-ads/master/adguard.txt
 ! https://github.com/bluemodena/aguardblocklist/edit/main/AdGuard-blocklist-DirecTVPauseAds.txt
 ! Home: https://github.com/bluemodena/aguardblocklist
-! Contribute: https://github.com/bluemodena/scamblocklist/issues
+! Contribute: https://github.com/bluemodena/aguardblocklist/issues
 ! License: MIT (https://mit-license.org/)
 
 ||xandrssads-sponsored.akamaized.net^
