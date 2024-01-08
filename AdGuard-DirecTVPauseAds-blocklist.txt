@@ -1,6 +1,13 @@
-! Title: DirecTV Pause - Blocklist
+! Title: AdGuard Blocklist DirecTV Pause Ads 
 ! Description: Blocklist for ads that play anytime DrecTV is paused
 ! Version: 20240107
+!
+! Source name: DirecTV Pause Blocklist by Bluemodena
+! Source: https://raw.githubusercontent.com/bluemodena/adguard-directv-pause-ads/master/adguard.txt
+! https://github.com/bluemodena/aguardblocklist/edit/main/AdGuard-blocklist-DirecTVPauseAds.txt
+! Home: https://github.com/bluemodena/aguardblocklist
+! Contribute: https://github.com/bluemodena/scamblocklist/issues
+! License: MIT (https://mit-license.org/)
 
 ||xandrssads-sponsored.akamaized.net^
 ||nomadnws.dtvce.com^
