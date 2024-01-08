@@ -1,0 +1,20 @@
+! Title: DirecTV Pause - Blocklist
+! Description: Blocklist for ads that play anytime DrecTV is paused
+! Version: 20240107
+
+||xandrssads-sponsored.akamaized.net^
+||nomadnws.dtvce.com^
+||pds-stb.dtvce.com^
+||pds-stb.dtvce.com^
+||insights-collector.newrelic.com^
+||dtvstb-screensaver.secure.footprint.net^
+||iw.dtvce.com^
+||callback1-stb.dtvce.com^
+||cmd.dtvce.com^
+||stb-plugin-akamai.directv.com.edgesuite.net^
+||bbvds.dtvbb.tv^
+||api.cld.dtvce.com^
+||ums-stb.dtvce.com^
+||analytic.rollout.io^
+||tv-pxy.dtvce.com^
+||xaaf-be-live.att.com^
