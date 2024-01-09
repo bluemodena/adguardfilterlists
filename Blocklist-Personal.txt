@@ -10,3 +10,5 @@
 ! Contribute: https://github.com/bluemodena/adguardfilterlists/issues
 ! License: MIT (https://mit-license.org/)
 
+||^.*p\.(([0-9]{1,3}\.){4})in-addr\.arpa$^
+
