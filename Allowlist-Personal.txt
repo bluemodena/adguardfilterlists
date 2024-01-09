@@ -1,6 +1,6 @@
 ! Title: Personal AdGuard Allowlist for bluemodena
 ! Description: My personal allowlist to override known blocklists
-! Version: 20240108.1
+! Version: 20240108.2
 !
 ! Source name: Personal AdGuard Allowlist for bluemodena
 ! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/blob/main/Allowlist-Personal.txt
@@ -12,3 +12,4 @@
 ||b-graph.facebook.com^
 ||www.mullvad.net^
 ||mullvad.net^
+||ads-[a-z]-darwin.hulustream.com^Hulu
