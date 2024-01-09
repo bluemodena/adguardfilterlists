@@ -1,0 +1,12 @@
+! Title: Personal AdGuard Blocklist for bluemodena
+! Description: My personal blocklist, an extension for known blocklists. Blocks ads, 
+! trackers, native device trackers, badware and more. Not intended to be used as a standalone
+! blocklist, it serves as a addition for other blocklists!
+! Version: 20240108.1
+!
+! Source name: Personal AdGuard Blocklist for bluemodena
+! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/blob/main/Blocklist-Personal.txt
+! Home: https://github.com/bluemodena/adguardfilterlists
+! Contribute: https://github.com/bluemodena/adguardfilterlists/issues
+! License: MIT (https://mit-license.org/)
+
