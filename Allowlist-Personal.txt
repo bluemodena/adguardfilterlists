@@ -3,7 +3,7 @@
 ! Version: 20240108.3
 !
 ! Source name: Personal AdGuard Allowlist for bluemodena
-! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/blob/main/Allowlist-Personal.txt
+! Source: https://raw.githubusercontent.com/bluemodena/adguardfilterlists/main/Allowlist-Personal.txt?token=GHSAT0AAAAAACMQJUHVS5GAMP2TWOJLH364ZNDJ3NA
 ! Home: https://github.com/bluemodena/adguardfilterlists
 ! Contribute: https://github.com/bluemodena/adguardfilterlists/issues
 ! License: MIT (https://mit-license.org/)
