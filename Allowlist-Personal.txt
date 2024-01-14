@@ -12,4 +12,5 @@
 ||b-graph.facebook.com^
 ||www.mullvad.net^
 ||mullvad.net^
-||ads-[a-z]-darwin.hulustream.com^Hulu
+||ads-[a-z]-darwin.hulustream.com^    ! Hulu
+||dcs-live.apis.anvato.net^           ! NFL
